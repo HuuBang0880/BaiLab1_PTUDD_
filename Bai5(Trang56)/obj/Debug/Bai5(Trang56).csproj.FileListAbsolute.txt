@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\bin\Debug\Bai5(Trang56).exe.config
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\bin\Debug\Bai5(Trang56).exe
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\bin\Debug\Bai5(Trang56).pdb
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\obj\Debug\Bai5(Trang56).csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\obj\Debug\Bai5(Trang56).csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\obj\Debug\Bai5_Trang56_.Form1.resources
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\obj\Debug\Bai5_Trang56_.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\obj\Debug\Bai5(Trang56).csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\obj\Debug\Bai5(Trang56).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\obj\Debug\Bai5(Trang56).exe
+C:\Users\ADMIN\Desktop\Bai5(Trang56)\obj\Debug\Bai5(Trang56).pdb

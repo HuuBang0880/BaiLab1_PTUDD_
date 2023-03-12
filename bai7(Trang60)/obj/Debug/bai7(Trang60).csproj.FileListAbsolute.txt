@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\bai7(Trang60)\bin\Debug\bai7(Trang60).exe.config
+C:\Users\ADMIN\Desktop\bai7(Trang60)\bin\Debug\bai7(Trang60).exe
+C:\Users\ADMIN\Desktop\bai7(Trang60)\bin\Debug\bai7(Trang60).pdb
+C:\Users\ADMIN\Desktop\bai7(Trang60)\obj\Debug\bai7(Trang60).csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\bai7(Trang60)\obj\Debug\bai7(Trang60).csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\bai7(Trang60)\obj\Debug\bai7_Trang60_.Form1.resources
+C:\Users\ADMIN\Desktop\bai7(Trang60)\obj\Debug\bai7_Trang60_.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\bai7(Trang60)\obj\Debug\bai7(Trang60).csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\bai7(Trang60)\obj\Debug\bai7(Trang60).csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\bai7(Trang60)\obj\Debug\bai7(Trang60).exe
+C:\Users\ADMIN\Desktop\bai7(Trang60)\obj\Debug\bai7(Trang60).pdb
